@@ -24,5 +24,4 @@
     
     P.S.: відсутність зображення зі супутника не є критичною. Частина фотографій відсутня в їхній базі.
 
-
-https://raw.github.com/dku4cdm/KPP_LABS/master/weather_screen.PNG
+![alt text](https://github.com/dku4cdm/KPP_LABS/blob/master/weather_screen.PNG)
